@@ -1,5 +1,5 @@
 # DragDeleteTextView
-仿手机QQ消息数拖动删除效果
+仿手机QQ消息数拖动删除效果，本效果的实现由[这里](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=909319)的项目修改而来，原项目使用稍显麻烦。
 
 ![效果图](https://github.com/shichaohui/DragDeleteTextView/blob/master/app/renderings.gif)
 ### 用法：
